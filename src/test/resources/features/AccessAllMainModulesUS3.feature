@@ -12,6 +12,7 @@ Feature: verifying access to all main modules
       | Photos    |
       | Activity  |
       | Talk      |
+      | Mail      |
       | Contacts  |
       | Circles   |
       | Calendar  |
