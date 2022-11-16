@@ -11,7 +11,7 @@ import java.util.Locale;
 @CucumberOptions(
         plugin = {
                 "json:target/cucumber.json",
-                "pretty",
+                //"pretty",
                 "html:target/cucumber-reports.html",
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
@@ -24,6 +24,7 @@ import java.util.Locale;
 
 )
 public class CukesRunner {
+
 
 
 
